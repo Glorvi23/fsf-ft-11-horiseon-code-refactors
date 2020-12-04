@@ -5,7 +5,7 @@
 The goal is to showcase what the company Horiseon offers as a company.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -26,6 +26,8 @@ You need to first install vscode, create a github account, and download git bash
 ## Credits
 
 https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html
+https://github.com/Glorvi23/fsf-ft-11-horiseon-code-refactors
+https://glorvi23.github.io/fsf-ft-11-horiseon-code-refactors/
 
 
 ## License
