@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* Syles everything in the body tag */
+/* Syles everything in the body element */
 body {
     background-color: #d9dcd6;
 }
@@ -18,7 +18,7 @@ header {
     color: #ffffff;
 }
 
-/* Styles h1 tag in the header */
+/* Styles h1 element in the header */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -49,18 +49,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Styles the a tag */
+/* Styles the a element */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Styles the p tag */
+/* Styles the p element */
 p {
     font-size: 16px;
 }
 
-/* Styles embed tag */
+/* Styles embed element */
 embed {
     height: 800px;
     width: 100%;
@@ -75,18 +75,20 @@ embed {
     margin-right: 25px;
 }
 
-
+/* Styles the class float-right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styles the items in the main element */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styles the items in the section element */
 section {
     margin-right: 20px;
     padding: 20px;
@@ -98,22 +100,26 @@ section {
     background-color: #2589bd;
 }
 
+/* Styles the class benefit */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styles the element h3 under the class benefit */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Styles the element img under the class benefit */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Styles the figure element */
 figure {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,15 +129,18 @@ figure {
     color: #ffffff;
 }
 
+/* Styles the img element under the figure element */
 figure img {
     max-height: 200px;
 }
 
+/* Styles the h2 element under the figure element */
 figure h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Styles the footer element */
 footer {
     padding: 30px;
     clear: both;
@@ -139,6 +148,7 @@ footer {
     text-align: center;
 }
 
+/* Styles the h2 element under the footer element */
 footer h2 {
     font-size: 20px;
 }

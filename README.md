@@ -1,7 +1,7 @@
 # horiseon-code-refactors
 
 ## Description 
-My goal are...
+The goal is to showcase what the company Horiseon offers as a company.
 
 
 ## Table of Contents (Optional)
@@ -12,7 +12,7 @@ My goal are...
 * [License](#license)
 
 ## Installation
-
+You need to first install vscode, create a github account, and download git bash for windows. Run "git clone" in git bash to initialize the repository on your computer. Finally, cd into the repository and type "code ." to open it in vscode.
 
 ## Usage 
 ![Horiseon]("/screenshot.png")
