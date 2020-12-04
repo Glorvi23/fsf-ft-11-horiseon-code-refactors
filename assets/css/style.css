@@ -1,13 +1,16 @@
+/* Styles everything */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Syles everything in the body tag */
 body {
     background-color: #d9dcd6;
 }
 
+/* Styles everything in the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ header {
     color: #ffffff;
 }
 
+/* Styles h1 tag in the header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Styles the 'seo' text in the h1 under the header */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styles the nav in the header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +38,29 @@ header nav {
     font-size: 20px;
 }
 
+/* Styles the ul in under the nav under the header */
 header nav ul {
     list-style-type: none;
 }
 
+/* Styles the li in the ul under the nav under the header */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Styles the a tag */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Styles the p tag */
 p {
     font-size: 16px;
 }
 
+/* Styles embed tag */
 embed {
     height: 800px;
     width: 100%;
@@ -58,10 +69,12 @@ embed {
     background-position: center;
 }
 
+/* Styles the class float-left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
 
 .float-right {
     float: right;
